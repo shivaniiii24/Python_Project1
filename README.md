@@ -1,5 +1,5 @@
 # Python_Project1
-                                                                        Customer Churn Analysis
+                                                                    Customer Churn Analysis
 **Introduction**
 Welcome to the Customer Churn Analysis project! In today’s competitive market, understanding why customers leave is crucial for any business. This project dives into customer churn data to uncover patterns and insights that can help companies improve their retention strategies.
 
